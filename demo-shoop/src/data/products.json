@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "nombre": "PC Gaming",
+        "cod":"pcg01",
+        "precio":1099.99,
+        "categoria": "Electronico",
+        "imgUrl":"/image/electro/pcgaming.png"
+    },
+    {
+        "id":2,
+        "nombre": "CPU GAMING",
+        "cod":"pcg02",
+        "precio":899.99,
+        "categoria": "Electronico",
+        "imgUrl":"/image/electro/cpu.png"
+    },
+    {
+        "id":3,
+        "nombre": "Lapto Dell",
+        "cod":"pcg03",
+        "precio":999.99,
+        "categoria": "Electronico",
+        "imgUrl":"/image/electro/laptopDel.png"
+    },
+    {
+        "id":4,
+        "nombre": "PC Gaming",
+        "cod":"pcg04",
+        "precio":1099.99,
+        "categoria": "Electronico",
+        "imgUrl":"/image/electro/teclado.png"
+    },
+    {
+        "id":5,
+        "nombre": "Kit Limpieza",
+        "cod":"kt1",
+        "precio":59.99,
+        "categoria": "Hogar",
+        "imgUrl":"/image/hogar/kitLimpieza.jpg"
+    },
+    {
+        "id":6,
+        "nombre": "Sofá",
+        "cod":"sa01",
+        "precio":699.99,
+        "categoria": "Hogar",
+        "imgUrl":"/image/hogar/sofa.jpg"
+    },
+    {
+        "id":7,
+        "nombre": "Trapeador M500",
+        "cod":"TR1",
+        "precio":100.99,
+        "categoria": "Hogar",
+        "imgUrl":"/image/hogar/trapeador.jpg"
+    },
+    {
+        "id":8,
+        "nombre": "Consola G5",
+        "cod":"cg01",
+        "precio":79.99,
+        "categoria": "Play",
+        "imgUrl":"/image/play/conlogG5.png"
+    }
+    ,
+    {
+        "id":9,
+        "nombre": "Nintendo",
+        "cod":"nt01",
+        "precio":39.99,
+        "categoria": "Play",
+        "imgUrl":"/image/play/nintendo.png"
+    },
+    {
+        "id":10,
+        "nombre": "Play Station s5",
+        "cod":"ps01",
+        "precio":79.99,
+        "categoria": "Play",
+        "imgUrl":"/image/play/playStattion.png"
+    }
+
+]
